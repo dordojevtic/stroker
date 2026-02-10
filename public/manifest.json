@@ -1,0 +1,45 @@
+{
+  "name": "Šlep Služba Stroker 24h",
+  "short_name": "Stroker 24h",
+  "description": "Šlep služba i pomoć na putu 24/7 u celoj Srbiji. Brzo, pouzdano, profesionalno.",
+  "lang": "sr-RS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1f2e",
+  "theme_color": "#ffc800",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/placeholder.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/placeholder.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "lifestyle", "utilities"],
+  "shortcuts": [
+    {
+      "name": "Pozovi odmah",
+      "short_name": "Pozovi",
+      "description": "Kontaktiraj šlep službu",
+      "url": "tel:+381622740496",
+      "icons": [
+        {
+          "src": "/favicon.ico",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}
