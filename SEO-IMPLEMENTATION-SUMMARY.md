@@ -38,7 +38,7 @@
 ```json
 ✅ @type: "AutoRepair"
 ✅ name: "Šlep Služba Stroker"
-✅ telephone: "+381622740496"
+✅ telephone: "+38162274049"
 ✅ address: Srbija (CountryLevel)
 ✅ openingHours: 24/7 (svi dani)
 ✅ priceRange: "$$"
@@ -291,7 +291,7 @@
 1. ❗ Zameni `https://slepsluzbastroker.rs/` sa stvarnim domenom
 2. ❗ Upload prave slike za OG image (1200x630px)
 3. ❗ Upload logo za favicon i manifest
-4. ❗ Verifikuj telefon broj je tačan (+381622740496)
+4. ❗ Verifikuj telefon broj je tačan (+38162274049)
 
 ### KRITIČNO (Odmah nakon deploya):
 1. ❗ Google Search Console setup + sitemap submit

@@ -81,7 +81,7 @@ A       www     your-server-ip  3600
    - Ime biznisa: "Šlep Služba Stroker 24h"
    - Kategorija: "Towing service" ili "Auto repair"
    - Adresa: Dodaj fizičku adresu (važno!)
-   - Telefon: +381 62 274 0496
+   - Telefon: +381 62 274 049
    - Radno vreme: 24/7 (Monday-Sunday, Open 24 hours)
    - Website: https://slepsluzbastroker.rs
 

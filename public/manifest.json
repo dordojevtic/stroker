@@ -33,7 +33,7 @@
       "name": "Pozovi odmah",
       "short_name": "Pozovi",
       "description": "Kontaktiraj šlep službu",
-      "url": "tel:+381622740496",
+      "url": "tel:+38162274049",
       "icons": [
         {
           "src": "/favicon.ico",

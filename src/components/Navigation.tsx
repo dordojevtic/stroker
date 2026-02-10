@@ -96,7 +96,7 @@ const Navigation = () => {
                   <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-primary transition-all group-hover:w-full" />
                 </a>
               ))}
-              <a href="tel:+381622740496">
+              <a href="tel:+38162274049">
                 <Button className="gap-2">
                   <Phone className="w-4 h-4" />
                   <span className="hidden lg:inline">Pozovi nas</span>
@@ -141,7 +141,7 @@ const Navigation = () => {
               </a>
             ))}
             <a
-              href="tel:+381622740496"
+              href="tel:+38162274049"
               className="mt-4 animate-in slide-in-from-right"
               style={{ animationDelay: `${navLinks.length * 50}ms` }}
             >

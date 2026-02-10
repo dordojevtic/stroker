@@ -18,7 +18,7 @@ const HeroSection = () => {
       <div className="relative z-10 container mx-auto px-4 text-center py-20">
         <div className="mb-6">
           <a
-            href="tel:+381622740496"
+            href="tel:+38162274049"
             className="inline-flex items-center gap-3 bg-primary px-8 py-4 rounded-lg text-primary-foreground font-heading text-2xl md:text-3xl hover:scale-105 transition-transform shadow-lg shadow-primary/30"
           >
             <Phone className="w-7 h-7 animate-pulse" />

@@ -10,7 +10,7 @@ interface SEOProps {
 
 const SEO = ({
   title = "Šlep Služba Stroker 24h | Pomoć na Putu Srbija | Šlepanje Vozila",
-  description = "Šlep služba Stroker 24/7 - brza pomoć na putu u celoj Srbiji. Šlepanje vozila do 3.5t, izvlačenje, startovanje, zamena gume. Dostupni 24h. ☎ +381 62 274 0496",
+  description = "Šlep služba Stroker 24/7 - brza pomoć na putu u celoj Srbiji. Šlepanje vozila do 3.5t, izvlačenje, startovanje, zamena gume. Dostupni 24h. ☎ +381 62 274 049",
   keywords = "šlep služba, pomoć na putu, šlepanje vozila, šlep Beograd, šlep Srbija, 24h šlep, izvlačenje vozila",
   canonicalUrl = "https://slepsluzbastroker.rs/",
   ogImage = "/placeholder.svg",

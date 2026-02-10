@@ -10,7 +10,7 @@ const FooterSection = () => {
           </h2>
 
           <a
-            href="tel:+381622740496"
+            href="tel:+38162274049"
             className="inline-flex items-center gap-3 bg-primary px-10 py-5 rounded-lg text-primary-foreground font-heading text-3xl md:text-4xl hover:scale-105 transition-transform shadow-lg shadow-primary/30 mb-10"
           >
             <Phone className="w-8 h-8" />
